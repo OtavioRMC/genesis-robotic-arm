@@ -3,7 +3,7 @@
 
 ## Controle Proporcional Derivativo no controle do Braço Robótico.
 
-
+Controle de posição e velocidade simultâneos
 $$
 \tau = K_p (q_{\text{des}} - q) + K_d (\dot{q}_{\text{des}} - \dot{q})
 $$
